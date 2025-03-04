@@ -1,0 +1,2 @@
+SELECT Titulo,Autor FROM Livros
+WHERE AnoPublicacao NOT IN (1945,1954,2003,2100)

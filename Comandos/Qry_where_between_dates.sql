@@ -1,0 +1,2 @@
+SELECT * FROM Emprestimos
+WHERE DataEmprestimo BETWEEN '2025-02-20' AND '2025-02-25';
